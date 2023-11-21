@@ -6,10 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om-tripathi1513" alt="om-tripathi1513" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
-
   
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+- 🔭 I’m currently working on **MERN STACK**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
