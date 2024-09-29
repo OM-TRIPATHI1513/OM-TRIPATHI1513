@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Tripathi</h1>
-<h3 align="center">A passionate MERN STACK from India</h3>
+<h3 align="center">A passionate Machine learning , MERN STACK from India</h3>
 
 
 
